@@ -39,24 +39,5 @@
   "engines": {
     "node": ">=14"
   },
-  "release-it": {
-    "@release-it/conventional-changelog": {
-      "preset": {
-        "name": "conventionalcommits",
-        "types": [
-          {
-            "type": "feat",
-            "section": "Features"
-          },
-          {
-            "type": "fix",
-            "section": "Bug Fixes"
-          },
-          {}
-        ]
-      },
-      "infile": "CHANGELOG.md"
-    }
-  },
   "version": "0.0.3"
 }
