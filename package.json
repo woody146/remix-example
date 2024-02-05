@@ -23,6 +23,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@release-it/conventional-changelog": "^8.0.1",
     "@remix-run/dev": "^1.19.3",
     "@remix-run/eslint-config": "^1.19.3",
     "@types/lodash-es": "^4.17.8",
@@ -37,6 +38,14 @@
   },
   "engines": {
     "node": ">=14"
+  },
+  "release-it": {
+    "@release-it/conventional-changelog": {
+      "preset": {
+        "name": "conventionalcommits"
+      },
+      "infile": "CHANGELOG.md"
+    }
   },
   "version": "0.0.1"
 }
