@@ -1,5 +1,12 @@
 
 
+## [0.3.0](https://github.com/woody146/remix-example/compare/0.2.0...0.3.0) (2024-02-05)
+
+
+### Features
+
+* hide config ([74cd889](https://github.com/woody146/remix-example/commit/74cd8894d3af44ff91e5cf21062896317c4ac182))
+
 ## [0.2.0](https://github.com/woody146/remix-example/compare/0.1.0...0.2.0) (2024-02-05)
 
 
