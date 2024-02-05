@@ -1,5 +1,17 @@
 
 
+## [0.2.0](https://github.com/woody146/remix-example/compare/0.1.0...0.2.0) (2024-02-05)
+
+
+### Features
+
+* remove private ([bb1426e](https://github.com/woody146/remix-example/commit/bb1426e8d006e78ba04b0576b2585fe88e87d89a))
+
+
+### Bug Fixes
+
+* update name ([4c9f3b7](https://github.com/woody146/remix-example/commit/4c9f3b7bbf97881312d875c1eb0e4fa11905f437))
+
 ## [0.1.0](https://github.com/woody146/remix-example/compare/0.0.5...0.1.0) (2024-02-05)
 
 
